@@ -19,12 +19,6 @@ PS Please note that WordPress doesn’t allow you to select more than 2 columns 
 
 If you liked my plugin, please `rate` it.
 
-You may also like my other plugins:
-
-- [Cool Tag Cloud](http://wordpress.org/plugins/cool-tag-cloud/) - A simple, yet very beautiful tag cloud.
-- [BBSpoiler](http://wordpress.org/plugins/bbspoiler/) - This plugin allows you to hide text under the tags [spoiler]your text[/spoiler]. 
-- [Spam Notifier](http://wordpress.org/plugins/spam-notifier/) - The plugin sends an email message when a comment goes to the spam folder. 
-- [Hide My Dates](http://wordpress.org/plugins/hide-my-dates/) - The plugin hides post and comment publishing dates from Google.  
 
 == Installation ==
 
