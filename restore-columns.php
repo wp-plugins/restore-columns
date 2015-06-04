@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Restore Columns
-Plugin URI: http://wordpress.org/plugins/restore-columns/
+Plugin URI: https://wordpress.org/plugins/restore-columns/
 Description: The plugin restores the possibility to select the number of columns displayed on the dashboard.
 Version: 1.00
 Author: Flector
-Author URI: http://www.wordpressplugins.ru/
+Author URI: https://profiles.wordpress.org/flector#content-plugins
 */ 
 
 function restore_columns() {
