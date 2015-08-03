@@ -3,7 +3,7 @@ Contributors: Flector
 Donate link: http://goo.gl/CcxWYg
 Tags: column, columns, admin
 Requires at least: 3.8
-Tested up to: 4.2.2
+Tested up to: 4.3
 Stable tag: trunk
 
 The plugin restores the possibility to select the number of columns displayed on the dashboard.
